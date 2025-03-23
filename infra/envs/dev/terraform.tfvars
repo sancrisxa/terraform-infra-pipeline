@@ -1,1 +1,1 @@
-bucket_name = "dev-sa-east-1-buildrun-video-pipeline-${random_string.result}"
+bucket_name = "dev-sa-east-1-buildrun-video-pipeline-teste"
